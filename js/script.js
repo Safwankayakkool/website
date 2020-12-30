@@ -14,6 +14,7 @@ window.addEventListener('resize', () => {
         document.body.classList.remove('resize-animation-stopper');
     }, 400);
 });
+
 $(document).ready(function() {
     $("#submit-form").validate({
         rules: {
