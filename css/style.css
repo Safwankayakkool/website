@@ -1,4 +1,7 @@
 /* #### navbar #### */
+.error {
+    color: red;
+}
 
 .navbar {
     position: fixed;
